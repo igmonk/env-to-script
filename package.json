@@ -1,6 +1,6 @@
 {
   "name": "env-to-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Getting environment variables in the browser",
   "main": "index.js",
   "scripts": {
