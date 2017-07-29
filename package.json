@@ -1,0 +1,25 @@
+{
+  "name": "env-to-script",
+  "version": "1.0.0",
+  "description": "Getting environment variables in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-moiseyenko/env-to-script.git"
+  },
+  "keywords": [
+    "environment",
+    "env",
+    "script",
+    "browser"
+  ],
+  "author": "Igor Moiseyenko <imoiseyenko93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igor-moiseyenko/env-to-script/issues"
+  },
+  "homepage": "https://github.com/igor-moiseyenko/env-to-script#readme"
+}
